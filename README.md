@@ -41,7 +41,7 @@
     <img align="center" alt="reactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     
-</div>
+</div><br/>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#B22222height=120&section=footer"/>
