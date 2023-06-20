@@ -6,6 +6,8 @@
 
 ![Marlon GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonOA&show_icons=true&theme=dark)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarlonOA&bg_color=171617&color=eee7ee&line=28d73c&point=d71414&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### *Contato*
 [![ Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
@@ -16,7 +18,7 @@
 
 
 
-### *Tecnologias aprendizadas*
+### *Tecnologias aprendizadas:*
 <div style="display: inline_block"><br/>
     <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -34,7 +36,7 @@
 
 
 
-### *Tecnologias que estou estudando*
+### *Tecnologias que estou estudando:*
 <div style="display: inline_block"><br/>
     <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
