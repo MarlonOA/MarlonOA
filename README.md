@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B22222height=120&section=header"/>
 
 ### Hello! I am Marlon😀👋
-*Desenvolvedor em formação*:computer:
+* :computer: *Desenvolvedor em formação*
 * :books:*Graduação: Análise e Desenvolvimento De Sistema*
 
 
