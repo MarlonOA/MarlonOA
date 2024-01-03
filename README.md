@@ -4,6 +4,11 @@
 * :computer:*Desenvolvedor em formação*
 * :books:*Graduação: Análise e Desenvolvimento De Sistema*
 
+ ![Marlon GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonOA&show_icons=true&theme=dark)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarlonOA&bg_color=171617&color=eee7ee&line=28d73c&point=d71414&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 
